@@ -1,4 +1,4 @@
-*.pkl
 *.mp4
+!yanka/Webapp/frontend/public/video/test.mp4
 node_modules/
 database/db-data/
